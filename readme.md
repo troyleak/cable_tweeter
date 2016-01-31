@@ -25,3 +25,5 @@ and
 ```
 python cable_tweeter.py
 ```
+
+Based on this: https://www.reddit.com/r/technology/comments/43fi39/i_set_up_my_raspberry_pi_to_automatically_tweet/
