@@ -1,0 +1,7 @@
+name: cable_tweeter
+dependencies:
+- python=3
+- pip
+- pip:
+    - twitter
+    - speedtest-cli
