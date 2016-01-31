@@ -23,9 +23,11 @@ ISP_PING_MAX
 ISP_PING_MIN
 ```
 
+# Create a virtual environment
+
 Requires python3.5
-Create a virtual environment
-For anaconda users: run
+
+For Anaconda users: run
 ```
 conda env create
 ```
