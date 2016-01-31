@@ -33,7 +33,9 @@ from the project directory.
 (virtualenv/wrapper users, create a new environment and run pip install -r requirements.txt)
 
 Then:
-```source activate cable_tweeter```
+```
+source activate cable_tweeter
+```
 
 and
 
